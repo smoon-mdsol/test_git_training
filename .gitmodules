@@ -1,0 +1,3 @@
+[submodule "pram0d-fitbit-test"]
+	path = pram0d-fitbit-test
+	url = https://github.com/psomashekar/pram0d-fitbit-test.git
